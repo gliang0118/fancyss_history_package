@@ -1,7 +1,8 @@
-3975b03456255374642a57ed762cf2d1 shadowsocks_2.0.0.tar.gz
-06217fe931f15deca3464ff7ecc08475 shadowsocks_2.1.0.tar.gz
-8f0609cf25f136afce9d8cb1443d29ff shadowsocks_2.1.1.tar.gz
-b76975563ddf3e7b8817579a00a471bc shadowsocks_2.1.2.tar.gz
-578bd9a1aca84b590467a2a9dcb6ca62 shadowsocks_2.1.3.tar.gz
-4a7fd6a882f88e670288dd35a34d92cd shadowsocks_2.1.4.tar.gz
-e26142393e423266c9fdfe9e7f8e3343 shadowsocks_2.1.5.tar.gz
+c59767b7eb6e5919349775aa412426d2 fancyss_qca_full_3.0.0.tar.gz
+b6cde10b083fb7920e41286269409056 fancyss_qca_lite_3.0.0.tar.gz
+8dc6b01a5156a0e714d7433e94eb9e49 fancyss_qca_full_3.0.1.tar.gz
+c35bc7a0840bd25c892b1e858d48d2bd fancyss_qca_lite_3.0.1.tar.gz
+6e47565b1a017eabc48627e659bd0023 fancyss_qca_full_3.0.2.tar.gz
+12765d8894767e196081fb74347f359c fancyss_qca_lite_3.0.2.tar.gz
+4413618c7fe15885c88f5f2c877922b6 fancyss_qca_full_3.0.3.tar.gz
+aa8efb40e4629372290bd545d88de794 fancyss_qca_lite_3.0.3.tar.gz
